@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Juan</h1>
-<h3 align="center">A passionate frontend developer from Spain</h3>
+<h1 align="center">Hello everyone! 👋, I'm Juan</h1>
+<h3 align="center">A passionate frontend developer from Valencia, Spain</h3>
 
 - 🌱 I’m currently learning **Java, JavaScript and Angular**
 
